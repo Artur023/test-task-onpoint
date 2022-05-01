@@ -1,4 +1,4 @@
-import s from "../Slide1/Slide1.moduls.css"
+import s from "./../Slide1/Slide1.module.css"
 import pageThree from "../../../img/pages/page-3.png"
 
 const Slide3 = () => {
